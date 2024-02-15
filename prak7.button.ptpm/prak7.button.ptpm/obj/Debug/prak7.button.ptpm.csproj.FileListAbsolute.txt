@@ -1,0 +1,11 @@
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\bin\Debug\prak7.button.ptpm.exe.config
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\bin\Debug\prak7.button.ptpm.exe
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\bin\Debug\prak7.button.ptpm.pdb
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.csproj.AssemblyReference.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.csproj.SuggestedBindingRedirects.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.Form.resources
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.Properties.Resources.resources
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.csproj.GenerateResource.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.csproj.CoreCompileInputs.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.exe
+C:\Users\st325l02\Desktop\redkin pr-23\prak7.button.ptpm\prak7.button.ptpm\obj\Debug\prak7.button.ptpm.pdb

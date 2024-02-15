@@ -1,0 +1,11 @@
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\bin\Debug\prak8.spiski.ptpm.exe.config
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\bin\Debug\prak8.spiski.ptpm.exe
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\bin\Debug\prak8.spiski.ptpm.pdb
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.csproj.AssemblyReference.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.csproj.SuggestedBindingRedirects.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.Form1.resources
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.Properties.Resources.resources
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.csproj.GenerateResource.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.csproj.CoreCompileInputs.cache
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.exe
+C:\Users\st325l02\Desktop\redkin pr-23\prak8.spiski.ptpm\prak8.spiski.ptpm\obj\Debug\prak8.spiski.ptpm.pdb
